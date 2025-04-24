@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# practica03
+Repositorio de practica03 de Lógica Computacional
+
+>>>>>>> a11082084a9d162ebcbeb94c6a5ea2ac4e35f6b0
 # Práctica 03: Solucionadores SAT
 
 ## Integrantes del equipo
@@ -109,5 +115,8 @@
 
 - **`solucion`**  
   Ejecuta el solucionador SAT y filtra los pares verdaderos para mostrar qué propiedad tiene cada casa.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> a11082084a9d162ebcbeb94c6a5ea2ac4e35f6b0
